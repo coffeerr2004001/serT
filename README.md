@@ -7,4 +7,6 @@ serT 远程串口透传模块, 部分开源, 开源部分遵守MIT协议
 * [serT 配置文件说明](https://github.com/coffeerr2004001/serT/wiki/serT-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%B4%E6%98%8E)
 
 
-* [serT 配置文件说明](https://github.com/coffeerr2004001/serPrint)
+* [serPrint 打印到pc的示例](https://github.com/coffeerr2004001/serPrint)
+* [serPrint serT烧写工具](https://github.com/coffeerr2004001/serProg)
+
