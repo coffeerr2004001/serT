@@ -1,0 +1,11 @@
+{
+"ap_ssid":"ddedemdemodemdeddemoap",
+"ap_password":"demopass",
+"mqtt_server":"f.vvlogic.com",
+"mqtt_port":9001,
+"mqtt_username":"vv",
+"mqtt_password":"vv",
+"baudrate":115200,
+"sert_topic":"datadata",
+"end":"end"
+}
